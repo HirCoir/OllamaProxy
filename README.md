@@ -57,13 +57,11 @@ Este proyecto fue desarrollado por **HirCoir**. Visita [hircoir.eu.org](https://
 
 ## Licencia 📜
 
-Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
-
+Este proyecto está bajo la licencia MIT.
 ---
 
 **¡Conéctate con nosotros!** 🌐
 
-- [GitHub](https://github.com/HirCoir)
 - [Sitio web](https://hircoir.eu.org)
 
 ---
